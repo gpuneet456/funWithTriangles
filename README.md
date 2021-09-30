@@ -1,6 +1,6 @@
 # funwithtriangles
  
-This has four components:
+This app has four components:
 <ol>
 <li>Quiz on triangle</li>
 <li>Calculate the length of the hypotenuse</li>
